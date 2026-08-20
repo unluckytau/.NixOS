@@ -28,6 +28,7 @@
 			cursor_blink_interval = "0.5";
 			enable_audio_bell = "no";
 			confirm_os_window_close = "0";
+      background_opacity = "0.80";
 		};
 		shellIntegration.mode = "no-cursor";
 		extraConfig = ''

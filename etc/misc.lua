@@ -2,7 +2,12 @@
 -- ~/.local/state/hypr/
 
 hl.config({
-  general = {
-    border_size = 0,
+  decoration = {
+    blur = {
+      enabled = true,
+      size = 5,
+      passes = 2,
+      vibrancy = 0.1696,
+    },
   },
 })
