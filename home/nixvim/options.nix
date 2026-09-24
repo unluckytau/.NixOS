@@ -36,6 +36,9 @@
 		wrap = false;
 		splitright = true;
 		splitbelow = true;
+    foldmethod = "expr";
+    foldexpr = "v:lua.vim.treesitter.foldexpr()";
+    foldlevelstart = 99;
 
 		# misc.
 		updatetime = 250;
