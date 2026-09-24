@@ -17,7 +17,7 @@
 			italic_font = "auto";
 			bold_italic_font = "auto";
       font_features = "MapleMono-NF +calt +cv01 +ss01 +zero";
-			font_size = "11";
+			font_size = "12";
       modify_font = "cell_height 120%";
 			tab_title_template = "{title}{' :{}:'.format(num_windows) if num_windows > 1 else ''}";
 			window_padding_width = "0 10";
