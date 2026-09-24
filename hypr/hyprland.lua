@@ -9,9 +9,9 @@
   hl.env("LIBVA_DRIVER_NAME", "nvidia")
 
 -- bibata cursors.
-  hl.env("XCURSOR_THEME", "Bibata-Modern-Classic")
+  hl.env("XCURSOR_THEME", "Bibata-Modern-Ice")
   hl.env("XCURSOR_SIZE", "20")
-  hl.env("HYPRCURSOR_THEME", "Bibata-Modern-Classic")
+  hl.env("HYPRCURSOR_THEME", "Bibata-Modern-Ice")
   hl.env("HYPRCURSOR_SIZE", "20")
 
 -- variables.
